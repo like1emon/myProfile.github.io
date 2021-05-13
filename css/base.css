@@ -14,7 +14,6 @@ li {
 
 .container {
     position: relative;
-    max-width: 100%;
     /* 默认居中对齐 */
     margin: 20px auto;
     width: 1240px;
@@ -25,7 +24,3 @@ li {
 .container img {
     max-width: 100%;
 }
-
-@media only screen and (max-width: 480px) {}
-
-@media only screen and (max-width: 375px) {}
